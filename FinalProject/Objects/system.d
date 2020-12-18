@@ -1,0 +1,15 @@
+.\objects\system.o: system.c
+.\objects\system.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\system.o: system.h
+.\objects\system.o: ..\..\..\..\inc/hw_types.h
+.\objects\system.o: ..\..\..\..\inc/hw_memmap.h
+.\objects\system.o: ..\..\..\..\inc/hw_gpio.h
+.\objects\system.o: ..\..\..\..\driverlib/sysctl.h
+.\objects\system.o: ..\..\..\..\driverlib/pin_map.h
+.\objects\system.o: ..\..\..\..\driverlib/rom_map.h
+.\objects\system.o: ..\..\..\..\driverlib/gpio.h
+.\objects\system.o: ..\..\..\..\driverlib/interrupt.h
+.\objects\system.o: ..\..\..\..\inc/tm4c123gh6pm.h
+.\objects\system.o: ..\..\..\..\driverlib/uart.h
+.\objects\system.o: ..\..\..\..\driverlib/adc.h
